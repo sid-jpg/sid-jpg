@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
@@ -60,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/> 
   </a> 
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" alt="QGIS" width="40" height="40"/> 
   </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/> 
